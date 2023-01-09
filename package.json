@@ -27,7 +27,7 @@
         "@ckeditor/ckeditor5-build-classic": "^12.4.0",
         "@ckeditor/ckeditor5-vue": "^1.0.0",
         "bootstrap-vue": "^2.0.0-rc.19",
-        "luxon": "^1.19.3",
+        "luxon": "^1.28.1",
 
         "vue-ckeditor2": "^2.1.5",
         "vue-ctk-date-time-picker": "^2.3.1",
